@@ -1,11 +1,11 @@
-# Super App Architecture Overview
+# Super App Concept to Implementation
 
-The Super App employs a modular architecture that offers both flexibility and scalability. Utilizing micro-frontends and microservices allows different teams to work on separate components independently.
+Super App employs a modular architecture that offers both flexibility and scalability. Utilizing micro-frontends and microservices allows different teams to work on separate components independently.
 
 ![Architecture](architecture.jpg 'Architecture')
 
 ## Table of Contents
-- [Super App Architecture Overview](#super-app-architecture-overview)
+- [Super App Concept to Implementation](#super-app-concept-to-implementation)
   - [Table of Contents](#table-of-contents)
   - [Main Components](#main-components)
     - [Super App](#super-app)
