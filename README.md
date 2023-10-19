@@ -2,6 +2,9 @@
 
 The Super App employs a modular architecture that offers both flexibility and scalability. This design has multiple modules as described below. The utilization of micro-frontends and microservices allows different teams to work on separate components independently.
 
+![Architecture](architecture.png")
+
+
 ## Main Components
 
 ### **Super App**
